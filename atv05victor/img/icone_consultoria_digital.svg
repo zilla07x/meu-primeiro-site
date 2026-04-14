@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#FFFBEB"/>
+  <!-- barras do gráfico -->
+  <rect x="60" y="118" width="20" height="30" rx="4" fill="#F59E0B"/>
+  <rect x="90" y="98" width="20" height="50" rx="4" fill="#F59E0B"/>
+  <rect x="120" y="75" width="20" height="73" rx="4" fill="#F59E0B"/>
+  <!-- seta de tendência -->
+  <line x1="58" y1="122" x2="142" y2="68" stroke="#F59E0B" stroke-width="3.5" stroke-linecap="round"/>
+  <polyline points="132,60 142,68 134,78" fill="none" stroke="#F59E0B" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- pessoa -->
+  <circle cx="100" cy="48" r="13" fill="#FCD34D"/>
+  <rect x="82" y="60" width="36" height="20" rx="10" fill="#FCD34D"/>
+</svg>

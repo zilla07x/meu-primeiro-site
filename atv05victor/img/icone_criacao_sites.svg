@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="20" fill="#EFF6FF"/>
+  <!-- Monitor -->
+  <rect x="48" y="55" width="104" height="70" rx="7" fill="#3B82F6"/>
+  <rect x="56" y="63" width="88" height="54" rx="4" fill="#EFF6FF"/>
+  <!-- browser bar -->
+  <rect x="62" y="68" width="20" height="5" rx="2.5" fill="#93C5FD"/>
+  <rect x="86" y="68" width="12" height="5" rx="2.5" fill="#93C5FD"/>
+  <!-- content lines -->
+  <rect x="62" y="78" width="56" height="5" rx="2.5" fill="#BFDBFE"/>
+  <rect x="62" y="87" width="42" height="5" rx="2.5" fill="#BFDBFE"/>
+  <rect x="62" y="96" width="50" height="5" rx="2.5" fill="#BFDBFE"/>
+  <!-- stand -->
+  <rect x="90" y="125" width="20" height="10" rx="3" fill="#3B82F6"/>
+  <rect x="76" y="133" width="48" height="7" rx="3.5" fill="#3B82F6"/>
+</svg>
